@@ -1,0 +1,19 @@
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Java
+*.class
+target/
+out/
+
+# OS
+desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
