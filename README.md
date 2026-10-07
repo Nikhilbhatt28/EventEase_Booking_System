@@ -119,7 +119,7 @@ Make sure the following are installed:
 
 ```bash
 git clone https://github.com/your-username/EventEase.git
-cd EventEase
+cd EventEase_Booking_System
 ```
 
 ### Database Configuration
